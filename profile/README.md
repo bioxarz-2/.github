@@ -10,6 +10,6 @@ Remember that you can also find us in the following places:
 
 * [Website](https://bioxarz-2.vercel.app/)
 * [Wiki](https://bioxarz-2.vercel.app/wiki)
-* [Discord](https://discord.gg/jHwEcgUR)
+* [Discord](https://discord.gg/dxq5uvyDJB)
 * [YouTube](https://www.youtube.com/@bioxarz-2)
 * [X](https://x.com/bioxarz-2)
